@@ -1,0 +1,10 @@
+.btn {
+  display: block;
+  margin: 10px;
+}
+
+.btn-click {
+  display: flex;
+  width: 150px;
+  height: 150px;
+}
